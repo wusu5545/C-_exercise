@@ -1,0 +1,9 @@
+all: A2
+
+A2:
+	g++ A2_fac.cpp
+
+clean:
+	rm A2_fac.o a.out
+
+.PHONY: clean

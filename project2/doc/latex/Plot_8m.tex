@@ -1,0 +1,181 @@
+\hypertarget{Plot_8m}{\section{plot/\-Plot.m File Reference}
+\label{Plot_8m}\index{plot/\-Plot.\-m@{plot/\-Plot.\-m}}
+}
+\subsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{Plot_8m_a39cc4eae8cc13eaea23364936540819f}{figure} (1)
+\item 
+\hyperlink{Plot_8m_ab2910d0e81f1fc60414b6c9e3343d478}{plot} (1\-:\hyperlink{Plot_8m_a8cc2e7240164328fdc3f0e5e21032c56}{N}, \hyperlink{Plot_8m_a7950411263365040a59c3205a5c611b6}{x}(3,\-:))
+\item 
+\hyperlink{Plot_8m_ac3dd142a4aae5fcaa11607cf843dc501}{title} ('pi estimate against number of rain drops')
+\item 
+\hyperlink{Plot_8m_a2e4585e2b05ad5027d27c2881489d224}{xlabel} ('Number of rain drops')
+\item 
+\hyperlink{Plot_8m_ac84feabc0a5ffe70fd5e05e72a103d54}{figure} (2)
+\item 
+\hyperlink{Plot_8m_a524c0b1f27fbee26bbb709fc493799d9}{if} (\hyperlink{Plot_8m_a7950411263365040a59c3205a5c611b6}{x}(4, \hyperlink{Plot_8m_a7e98b8a17c0aad30ba64d47b74e2a6c1}{i})==1) \hyperlink{Plot_8m_a3fa6da03fec8b51bf777ba760b6a9a08}{plot}(\hyperlink{Plot_8m_a7950411263365040a59c3205a5c611b6}{x}(1
+\item 
+\hyperlink{Plot_8m_a7950411263365040a59c3205a5c611b6}{x} (2, \hyperlink{Plot_8m_a7e98b8a17c0aad30ba64d47b74e2a6c1}{i})
+\item 
+else \hyperlink{Plot_8m_a3fa6da03fec8b51bf777ba760b6a9a08}{plot} (\hyperlink{Plot_8m_a7950411263365040a59c3205a5c611b6}{x}(1, \hyperlink{Plot_8m_a7e98b8a17c0aad30ba64d47b74e2a6c1}{i}), \hyperlink{Plot_8m_a7950411263365040a59c3205a5c611b6}{x}(2, \hyperlink{Plot_8m_a7e98b8a17c0aad30ba64d47b74e2a6c1}{i}),'.')
+\item 
+end \hyperlink{Plot_8m_adcff91ffcdfa11a3a6eaf006e5be7ace}{title} (\mbox{[}int2str(\hyperlink{Plot_8m_a7e98b8a17c0aad30ba64d47b74e2a6c1}{i}),'drops ', int2str(\hyperlink{Plot_8m_a7950411263365040a59c3205a5c611b6}{x}(5, \hyperlink{Plot_8m_a7e98b8a17c0aad30ba64d47b74e2a6c1}{i})),'landed in circle, estimating pi as ', num2str(\hyperlink{Plot_8m_a7950411263365040a59c3205a5c611b6}{x}(3, \hyperlink{Plot_8m_a7e98b8a17c0aad30ba64d47b74e2a6c1}{i}))\mbox{]})
+\item 
+\hyperlink{Plot_8m_aa6930526f3a7b9703d7ab44ad783fdbb}{F} (\hyperlink{Plot_8m_a7e98b8a17c0aad30ba64d47b74e2a6c1}{i})
+\item 
+end \hyperlink{Plot_8m_aa629e8645b08c95fc95089a003ebd17e}{movie2avi} (\hyperlink{Plot_8m_aa6930526f3a7b9703d7ab44ad783fdbb}{F},'Pi\-\_\-\-Estimation.\-avi','compression','None','fps', 50)
+\end{DoxyCompactItemize}
+\subsection*{Variables}
+\begin{DoxyCompactItemize}
+\item 
+close \hyperlink{Plot_8m_a4603254d9990f7140c024d51302d1a8f}{all}
+\item 
+\hyperlink{Plot_8m_a9336ebf25087d91c818ee6e9ec29f8c1}{x} = load('Pi\-\_\-\-Approx.\-txt')
+\item 
+\hyperlink{Plot_8m_a8cc2e7240164328fdc3f0e5e21032c56}{N} = length(\hyperlink{Plot_8m_a7950411263365040a59c3205a5c611b6}{x})
+\item 
+hold on for \hyperlink{Plot_8m_a7e98b8a17c0aad30ba64d47b74e2a6c1}{i}
+\item 
+\hyperlink{Plot_8m_a514f1b439f404f86f77090fa9edc96ce}{r}
+\end{DoxyCompactItemize}
+
+
+\subsection{Function Documentation}
+\hypertarget{Plot_8m_aa6930526f3a7b9703d7ab44ad783fdbb}{\index{Plot.\-m@{Plot.\-m}!F@{F}}
+\index{F@{F}!Plot.m@{Plot.\-m}}
+\subsubsection[{F}]{\setlength{\rightskip}{0pt plus 5cm}F (
+\begin{DoxyParamCaption}
+\item[{{\bf i}}]{}
+\end{DoxyParamCaption}
+)}}\label{Plot_8m_aa6930526f3a7b9703d7ab44ad783fdbb}
+\hypertarget{Plot_8m_a39cc4eae8cc13eaea23364936540819f}{\index{Plot.\-m@{Plot.\-m}!figure@{figure}}
+\index{figure@{figure}!Plot.m@{Plot.\-m}}
+\subsubsection[{figure}]{\setlength{\rightskip}{0pt plus 5cm}figure (
+\begin{DoxyParamCaption}
+\item[{1}]{}
+\end{DoxyParamCaption}
+)}}\label{Plot_8m_a39cc4eae8cc13eaea23364936540819f}
+\hypertarget{Plot_8m_ac84feabc0a5ffe70fd5e05e72a103d54}{\index{Plot.\-m@{Plot.\-m}!figure@{figure}}
+\index{figure@{figure}!Plot.m@{Plot.\-m}}
+\subsubsection[{figure}]{\setlength{\rightskip}{0pt plus 5cm}figure (
+\begin{DoxyParamCaption}
+\item[{2}]{}
+\end{DoxyParamCaption}
+)}}\label{Plot_8m_ac84feabc0a5ffe70fd5e05e72a103d54}
+\hypertarget{Plot_8m_a524c0b1f27fbee26bbb709fc493799d9}{\index{Plot.\-m@{Plot.\-m}!if@{if}}
+\index{if@{if}!Plot.m@{Plot.\-m}}
+\subsubsection[{if}]{\setlength{\rightskip}{0pt plus 5cm}if (
+\begin{DoxyParamCaption}
+\item[{{\bf x}(4, {\bf i})}]{ = {\ttfamily =1}}
+\end{DoxyParamCaption}
+)}}\label{Plot_8m_a524c0b1f27fbee26bbb709fc493799d9}
+\hypertarget{Plot_8m_aa629e8645b08c95fc95089a003ebd17e}{\index{Plot.\-m@{Plot.\-m}!movie2avi@{movie2avi}}
+\index{movie2avi@{movie2avi}!Plot.m@{Plot.\-m}}
+\subsubsection[{movie2avi}]{\setlength{\rightskip}{0pt plus 5cm}end movie2avi (
+\begin{DoxyParamCaption}
+\item[{{\bf F}}]{, }
+\item[{'Pi\-\_\-\-Estimation.\-avi'}]{, }
+\item[{'compression'}]{, }
+\item[{'None'}]{, }
+\item[{'fps'}]{, }
+\item[{50}]{}
+\end{DoxyParamCaption}
+)}}\label{Plot_8m_aa629e8645b08c95fc95089a003ebd17e}
+\hypertarget{Plot_8m_ab2910d0e81f1fc60414b6c9e3343d478}{\index{Plot.\-m@{Plot.\-m}!plot@{plot}}
+\index{plot@{plot}!Plot.m@{Plot.\-m}}
+\subsubsection[{plot}]{\setlength{\rightskip}{0pt plus 5cm}plot (
+\begin{DoxyParamCaption}
+\item[{1\-:{\bf N}}]{, }
+\item[{{\bf x}(3,\-:)}]{}
+\end{DoxyParamCaption}
+)}}\label{Plot_8m_ab2910d0e81f1fc60414b6c9e3343d478}
+\hypertarget{Plot_8m_a3fa6da03fec8b51bf777ba760b6a9a08}{\index{Plot.\-m@{Plot.\-m}!plot@{plot}}
+\index{plot@{plot}!Plot.m@{Plot.\-m}}
+\subsubsection[{plot}]{\setlength{\rightskip}{0pt plus 5cm}else plot (
+\begin{DoxyParamCaption}
+\item[{{\bf x}(1, {\bf i})}]{, }
+\item[{{\bf x}(2, {\bf i})}]{, }
+\item[{'.'}]{}
+\end{DoxyParamCaption}
+)}}\label{Plot_8m_a3fa6da03fec8b51bf777ba760b6a9a08}
+\hypertarget{Plot_8m_ac3dd142a4aae5fcaa11607cf843dc501}{\index{Plot.\-m@{Plot.\-m}!title@{title}}
+\index{title@{title}!Plot.m@{Plot.\-m}}
+\subsubsection[{title}]{\setlength{\rightskip}{0pt plus 5cm}title (
+\begin{DoxyParamCaption}
+\item[{'pi estimate against number of rain drops'}]{}
+\end{DoxyParamCaption}
+)}}\label{Plot_8m_ac3dd142a4aae5fcaa11607cf843dc501}
+\hypertarget{Plot_8m_adcff91ffcdfa11a3a6eaf006e5be7ace}{\index{Plot.\-m@{Plot.\-m}!title@{title}}
+\index{title@{title}!Plot.m@{Plot.\-m}}
+\subsubsection[{title}]{\setlength{\rightskip}{0pt plus 5cm}end title (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}}\label{Plot_8m_adcff91ffcdfa11a3a6eaf006e5be7ace}
+\hypertarget{Plot_8m_a7950411263365040a59c3205a5c611b6}{\index{Plot.\-m@{Plot.\-m}!x@{x}}
+\index{x@{x}!Plot.m@{Plot.\-m}}
+\subsubsection[{x}]{\setlength{\rightskip}{0pt plus 5cm}x (
+\begin{DoxyParamCaption}
+\item[{2}]{, }
+\item[{{\bf i}}]{}
+\end{DoxyParamCaption}
+)}}\label{Plot_8m_a7950411263365040a59c3205a5c611b6}
+\hypertarget{Plot_8m_a2e4585e2b05ad5027d27c2881489d224}{\index{Plot.\-m@{Plot.\-m}!xlabel@{xlabel}}
+\index{xlabel@{xlabel}!Plot.m@{Plot.\-m}}
+\subsubsection[{xlabel}]{\setlength{\rightskip}{0pt plus 5cm}xlabel (
+\begin{DoxyParamCaption}
+\item[{'Number of rain drops'}]{}
+\end{DoxyParamCaption}
+)}}\label{Plot_8m_a2e4585e2b05ad5027d27c2881489d224}
+
+
+\subsection{Variable Documentation}
+\hypertarget{Plot_8m_a4603254d9990f7140c024d51302d1a8f}{\index{Plot.\-m@{Plot.\-m}!all@{all}}
+\index{all@{all}!Plot.m@{Plot.\-m}}
+\subsubsection[{all}]{\setlength{\rightskip}{0pt plus 5cm}clear all}}\label{Plot_8m_a4603254d9990f7140c024d51302d1a8f}
+
+
+Definition at line 1 of file Plot.\-m.
+
+\hypertarget{Plot_8m_a7e98b8a17c0aad30ba64d47b74e2a6c1}{\index{Plot.\-m@{Plot.\-m}!i@{i}}
+\index{i@{i}!Plot.m@{Plot.\-m}}
+\subsubsection[{i}]{\setlength{\rightskip}{0pt plus 5cm}i}}\label{Plot_8m_a7e98b8a17c0aad30ba64d47b74e2a6c1}
+{\bfseries Initial value\-:}
+\begin{DoxyCode}
+1:\hyperlink{Plot_8m_a8cc2e7240164328fdc3f0e5e21032c56}{N}
+    \hyperlink{Plot_8m_a39cc4eae8cc13eaea23364936540819f}{figure}(2)
+\end{DoxyCode}
+
+
+Definition at line 12 of file Plot.\-m.
+
+
+
+Referenced by Complex\-::abs(), Complex\-::arg(), Complex\-::\-Complex(), Complex\-::conj(), Complex\-::imag(), Complex\-::norm(), Complex\-::operator=(), montecarlo\-::\-Pi\-\_\-\-Estamtion(), and Complex\-::print().
+
+\hypertarget{Plot_8m_a8cc2e7240164328fdc3f0e5e21032c56}{\index{Plot.\-m@{Plot.\-m}!N@{N}}
+\index{N@{N}!Plot.m@{Plot.\-m}}
+\subsubsection[{N}]{\setlength{\rightskip}{0pt plus 5cm}N = length({\bf x})}}\label{Plot_8m_a8cc2e7240164328fdc3f0e5e21032c56}
+
+
+Definition at line 4 of file Plot.\-m.
+
+\hypertarget{Plot_8m_a514f1b439f404f86f77090fa9edc96ce}{\index{Plot.\-m@{Plot.\-m}!r@{r}}
+\index{r@{r}!Plot.m@{Plot.\-m}}
+\subsubsection[{r}]{\setlength{\rightskip}{0pt plus 5cm}r}}\label{Plot_8m_a514f1b439f404f86f77090fa9edc96ce}
+
+
+Definition at line 15 of file Plot.\-m.
+
+
+
+Referenced by Complex\-::abs(), Complex\-::arg(), Complex\-::\-Complex(), Complex\-::conj(), Complex\-::norm(), Complex\-::operator=(), Complex\-::print(), and Complex\-::real().
+
+\hypertarget{Plot_8m_a9336ebf25087d91c818ee6e9ec29f8c1}{\index{Plot.\-m@{Plot.\-m}!x@{x}}
+\index{x@{x}!Plot.m@{Plot.\-m}}
+\subsubsection[{x}]{\setlength{\rightskip}{0pt plus 5cm}x = load('Pi\-\_\-\-Approx.\-txt')}}\label{Plot_8m_a9336ebf25087d91c818ee6e9ec29f8c1}
+
+
+Definition at line 3 of file Plot.\-m.
+

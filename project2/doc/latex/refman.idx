@@ -1,0 +1,209 @@
+\indexentry{Complex@{Complex}|hyperpage}{5}
+\indexentry{Complex@{Complex}!Complex@{Complex}|hyperpage}{6}
+\indexentry{Complex@{Complex}!Complex@{Complex}|hyperpage}{6}
+\indexentry{Complex@{Complex}!Complex@{Complex}|hyperpage}{6}
+\indexentry{Complex@{Complex}!Complex@{Complex}|hyperpage}{6}
+\indexentry{Complex@{Complex}!Complex@{Complex}|hyperpage}{6}
+\indexentry{Complex@{Complex}!Complex@{Complex}|hyperpage}{6}
+\indexentry{Complex@{Complex}!abs@{abs}|hyperpage}{6}
+\indexentry{abs@{abs}!Complex@{Complex}|hyperpage}{6}
+\indexentry{Complex@{Complex}!arg@{arg}|hyperpage}{6}
+\indexentry{arg@{arg}!Complex@{Complex}|hyperpage}{6}
+\indexentry{Complex@{Complex}!conj@{conj}|hyperpage}{7}
+\indexentry{conj@{conj}!Complex@{Complex}|hyperpage}{7}
+\indexentry{Complex@{Complex}!imag@{imag}|hyperpage}{7}
+\indexentry{imag@{imag}!Complex@{Complex}|hyperpage}{7}
+\indexentry{Complex@{Complex}!norm@{norm}|hyperpage}{7}
+\indexentry{norm@{norm}!Complex@{Complex}|hyperpage}{7}
+\indexentry{Complex@{Complex}!operator$\ast $=@{operator$\ast $=}|hyperpage}{7}
+\indexentry{operator$\ast $=@{operator$\ast $=}!Complex@{Complex}|hyperpage}{7}
+\indexentry{Complex@{Complex}!operator+=@{operator+=}|hyperpage}{7}
+\indexentry{operator+=@{operator+=}!Complex@{Complex}|hyperpage}{7}
+\indexentry{Complex@{Complex}!operator-\/=@{operator-\/=}|hyperpage}{7}
+\indexentry{operator-\/=@{operator-\/=}!Complex@{Complex}|hyperpage}{7}
+\indexentry{Complex@{Complex}!operator/=@{operator/=}|hyperpage}{7}
+\indexentry{operator/=@{operator/=}!Complex@{Complex}|hyperpage}{7}
+\indexentry{Complex@{Complex}!operator/=@{operator/=}|hyperpage}{7}
+\indexentry{operator/=@{operator/=}!Complex@{Complex}|hyperpage}{7}
+\indexentry{Complex@{Complex}!operator=@{operator=}|hyperpage}{7}
+\indexentry{operator=@{operator=}!Complex@{Complex}|hyperpage}{7}
+\indexentry{Complex@{Complex}!operator=@{operator=}|hyperpage}{7}
+\indexentry{operator=@{operator=}!Complex@{Complex}|hyperpage}{7}
+\indexentry{Complex@{Complex}!print@{print}|hyperpage}{8}
+\indexentry{print@{print}!Complex@{Complex}|hyperpage}{8}
+\indexentry{Complex@{Complex}!real@{real}|hyperpage}{8}
+\indexentry{real@{real}!Complex@{Complex}|hyperpage}{8}
+\indexentry{Complex@{Complex}!abs@{abs}|hyperpage}{8}
+\indexentry{abs@{abs}!Complex@{Complex}|hyperpage}{8}
+\indexentry{Complex@{Complex}!arg@{arg}|hyperpage}{8}
+\indexentry{arg@{arg}!Complex@{Complex}|hyperpage}{8}
+\indexentry{Complex@{Complex}!conj@{conj}|hyperpage}{8}
+\indexentry{conj@{conj}!Complex@{Complex}|hyperpage}{8}
+\indexentry{Complex@{Complex}!cos@{cos}|hyperpage}{8}
+\indexentry{cos@{cos}!Complex@{Complex}|hyperpage}{8}
+\indexentry{Complex@{Complex}!cosh@{cosh}|hyperpage}{8}
+\indexentry{cosh@{cosh}!Complex@{Complex}|hyperpage}{8}
+\indexentry{Complex@{Complex}!exp@{exp}|hyperpage}{8}
+\indexentry{exp@{exp}!Complex@{Complex}|hyperpage}{8}
+\indexentry{Complex@{Complex}!imag@{imag}|hyperpage}{8}
+\indexentry{imag@{imag}!Complex@{Complex}|hyperpage}{8}
+\indexentry{Complex@{Complex}!log@{log}|hyperpage}{8}
+\indexentry{log@{log}!Complex@{Complex}|hyperpage}{8}
+\indexentry{Complex@{Complex}!norm@{norm}|hyperpage}{9}
+\indexentry{norm@{norm}!Complex@{Complex}|hyperpage}{9}
+\indexentry{Complex@{Complex}!operator!=@{operator!=}|hyperpage}{9}
+\indexentry{operator!=@{operator!=}!Complex@{Complex}|hyperpage}{9}
+\indexentry{Complex@{Complex}!operator\char `\"{}\char `\"{}\discretionary {-}{}{}\_\discretionary {-}{}{}i@{operator""""\discretionary {-}{}{}\_\discretionary {-}{}{}i}|hyperpage}{9}
+\indexentry{operator\char `\"{}\char `\"{}\discretionary {-}{}{}\_\discretionary {-}{}{}i@{operator""""\discretionary {-}{}{}\_\discretionary {-}{}{}i}!Complex@{Complex}|hyperpage}{9}
+\indexentry{Complex@{Complex}!operator\char `\"{}\char `\"{}\discretionary {-}{}{}\_\discretionary {-}{}{}i@{operator""""\discretionary {-}{}{}\_\discretionary {-}{}{}i}|hyperpage}{9}
+\indexentry{operator\char `\"{}\char `\"{}\discretionary {-}{}{}\_\discretionary {-}{}{}i@{operator""""\discretionary {-}{}{}\_\discretionary {-}{}{}i}!Complex@{Complex}|hyperpage}{9}
+\indexentry{Complex@{Complex}!operator$\ast $@{operator$\ast $}|hyperpage}{9}
+\indexentry{operator$\ast $@{operator$\ast $}!Complex@{Complex}|hyperpage}{9}
+\indexentry{Complex@{Complex}!operator+@{operator+}|hyperpage}{9}
+\indexentry{operator+@{operator+}!Complex@{Complex}|hyperpage}{9}
+\indexentry{Complex@{Complex}!operator-\/@{operator-\/}|hyperpage}{9}
+\indexentry{operator-\/@{operator-\/}!Complex@{Complex}|hyperpage}{9}
+\indexentry{Complex@{Complex}!operator-\/@{operator-\/}|hyperpage}{9}
+\indexentry{operator-\/@{operator-\/}!Complex@{Complex}|hyperpage}{9}
+\indexentry{Complex@{Complex}!operator/@{operator/}|hyperpage}{9}
+\indexentry{operator/@{operator/}!Complex@{Complex}|hyperpage}{9}
+\indexentry{Complex@{Complex}!operator/@{operator/}|hyperpage}{9}
+\indexentry{operator/@{operator/}!Complex@{Complex}|hyperpage}{9}
+\indexentry{Complex@{Complex}!operator$<$$<$@{operator$<$$<$}|hyperpage}{9}
+\indexentry{operator$<$$<$@{operator$<$$<$}!Complex@{Complex}|hyperpage}{9}
+\indexentry{Complex@{Complex}!operator==@{operator==}|hyperpage}{9}
+\indexentry{operator==@{operator==}!Complex@{Complex}|hyperpage}{9}
+\indexentry{Complex@{Complex}!operator$>$$>$@{operator$>$$>$}|hyperpage}{10}
+\indexentry{operator$>$$>$@{operator$>$$>$}!Complex@{Complex}|hyperpage}{10}
+\indexentry{Complex@{Complex}!polar@{polar}|hyperpage}{10}
+\indexentry{polar@{polar}!Complex@{Complex}|hyperpage}{10}
+\indexentry{Complex@{Complex}!pow@{pow}|hyperpage}{10}
+\indexentry{pow@{pow}!Complex@{Complex}|hyperpage}{10}
+\indexentry{Complex@{Complex}!pow@{pow}|hyperpage}{10}
+\indexentry{pow@{pow}!Complex@{Complex}|hyperpage}{10}
+\indexentry{Complex@{Complex}!pow@{pow}|hyperpage}{10}
+\indexentry{pow@{pow}!Complex@{Complex}|hyperpage}{10}
+\indexentry{Complex@{Complex}!real@{real}|hyperpage}{10}
+\indexentry{real@{real}!Complex@{Complex}|hyperpage}{10}
+\indexentry{Complex@{Complex}!root@{root}|hyperpage}{10}
+\indexentry{root@{root}!Complex@{Complex}|hyperpage}{10}
+\indexentry{Complex@{Complex}!sin@{sin}|hyperpage}{10}
+\indexentry{sin@{sin}!Complex@{Complex}|hyperpage}{10}
+\indexentry{Complex@{Complex}!sinh@{sinh}|hyperpage}{10}
+\indexentry{sinh@{sinh}!Complex@{Complex}|hyperpage}{10}
+\indexentry{Complex@{Complex}!sqrt@{sqrt}|hyperpage}{10}
+\indexentry{sqrt@{sqrt}!Complex@{Complex}|hyperpage}{10}
+\indexentry{Complex@{Complex}!i@{i}|hyperpage}{10}
+\indexentry{i@{i}!Complex@{Complex}|hyperpage}{10}
+\indexentry{Complex@{Complex}!r@{r}|hyperpage}{11}
+\indexentry{r@{r}!Complex@{Complex}|hyperpage}{11}
+\indexentry{montecarlo@{montecarlo}|hyperpage}{11}
+\indexentry{montecarlo@{montecarlo}!Pi\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Estamtion@{Pi\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Estamtion}|hyperpage}{11}
+\indexentry{Pi\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Estamtion@{Pi\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Estamtion}!montecarlo@{montecarlo}|hyperpage}{11}
+\indexentry{montecarlo@{montecarlo}!Count\discretionary {-}{}{}\_\discretionary {-}{}{}in\discretionary {-}{}{}Circle@{Count\discretionary {-}{}{}\_\discretionary {-}{}{}in\discretionary {-}{}{}Circle}|hyperpage}{11}
+\indexentry{Count\discretionary {-}{}{}\_\discretionary {-}{}{}in\discretionary {-}{}{}Circle@{Count\discretionary {-}{}{}\_\discretionary {-}{}{}in\discretionary {-}{}{}Circle}!montecarlo@{montecarlo}|hyperpage}{11}
+\indexentry{montecarlo@{montecarlo}!in\discretionary {-}{}{}Circle@{in\discretionary {-}{}{}Circle}|hyperpage}{11}
+\indexentry{in\discretionary {-}{}{}Circle@{in\discretionary {-}{}{}Circle}!montecarlo@{montecarlo}|hyperpage}{11}
+\indexentry{montecarlo@{montecarlo}!Number\discretionary {-}{}{}\_\discretionary {-}{}{}of\discretionary {-}{}{}\_\discretionary {-}{}{}point@{Number\discretionary {-}{}{}\_\discretionary {-}{}{}of\discretionary {-}{}{}\_\discretionary {-}{}{}point}|hyperpage}{11}
+\indexentry{Number\discretionary {-}{}{}\_\discretionary {-}{}{}of\discretionary {-}{}{}\_\discretionary {-}{}{}point@{Number\discretionary {-}{}{}\_\discretionary {-}{}{}of\discretionary {-}{}{}\_\discretionary {-}{}{}point}!montecarlo@{montecarlo}|hyperpage}{11}
+\indexentry{montecarlo@{montecarlo}!pi\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Approx@{pi\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Approx}|hyperpage}{12}
+\indexentry{pi\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Approx@{pi\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Approx}!montecarlo@{montecarlo}|hyperpage}{12}
+\indexentry{montecarlo@{montecarlo}!simple\discretionary {-}{}{}\_\discretionary {-}{}{}point@{simple\discretionary {-}{}{}\_\discretionary {-}{}{}point}|hyperpage}{12}
+\indexentry{simple\discretionary {-}{}{}\_\discretionary {-}{}{}point@{simple\discretionary {-}{}{}\_\discretionary {-}{}{}point}!montecarlo@{montecarlo}|hyperpage}{12}
+\indexentry{include/complex.\discretionary {-}{}{}h@{include/complex.\discretionary {-}{}{}h}|hyperpage}{13}
+\indexentry{complex.\discretionary {-}{}{}h@{complex.\discretionary {-}{}{}h}!abs@{abs}|hyperpage}{14}
+\indexentry{abs@{abs}!complex.h@{complex.\discretionary {-}{}{}h}|hyperpage}{14}
+\indexentry{complex.\discretionary {-}{}{}h@{complex.\discretionary {-}{}{}h}!arg@{arg}|hyperpage}{14}
+\indexentry{arg@{arg}!complex.h@{complex.\discretionary {-}{}{}h}|hyperpage}{14}
+\indexentry{complex.\discretionary {-}{}{}h@{complex.\discretionary {-}{}{}h}!conj@{conj}|hyperpage}{14}
+\indexentry{conj@{conj}!complex.h@{complex.\discretionary {-}{}{}h}|hyperpage}{14}
+\indexentry{complex.\discretionary {-}{}{}h@{complex.\discretionary {-}{}{}h}!cos@{cos}|hyperpage}{14}
+\indexentry{cos@{cos}!complex.h@{complex.\discretionary {-}{}{}h}|hyperpage}{14}
+\indexentry{complex.\discretionary {-}{}{}h@{complex.\discretionary {-}{}{}h}!cosh@{cosh}|hyperpage}{14}
+\indexentry{cosh@{cosh}!complex.h@{complex.\discretionary {-}{}{}h}|hyperpage}{14}
+\indexentry{complex.\discretionary {-}{}{}h@{complex.\discretionary {-}{}{}h}!exp@{exp}|hyperpage}{14}
+\indexentry{exp@{exp}!complex.h@{complex.\discretionary {-}{}{}h}|hyperpage}{14}
+\indexentry{complex.\discretionary {-}{}{}h@{complex.\discretionary {-}{}{}h}!imag@{imag}|hyperpage}{14}
+\indexentry{imag@{imag}!complex.h@{complex.\discretionary {-}{}{}h}|hyperpage}{14}
+\indexentry{complex.\discretionary {-}{}{}h@{complex.\discretionary {-}{}{}h}!log@{log}|hyperpage}{14}
+\indexentry{log@{log}!complex.h@{complex.\discretionary {-}{}{}h}|hyperpage}{14}
+\indexentry{complex.\discretionary {-}{}{}h@{complex.\discretionary {-}{}{}h}!norm@{norm}|hyperpage}{15}
+\indexentry{norm@{norm}!complex.h@{complex.\discretionary {-}{}{}h}|hyperpage}{15}
+\indexentry{complex.\discretionary {-}{}{}h@{complex.\discretionary {-}{}{}h}!operator!=@{operator!=}|hyperpage}{15}
+\indexentry{operator!=@{operator!=}!complex.h@{complex.\discretionary {-}{}{}h}|hyperpage}{15}
+\indexentry{complex.\discretionary {-}{}{}h@{complex.\discretionary {-}{}{}h}!operator\char `\"{}\char `\"{}\discretionary {-}{}{}\_\discretionary {-}{}{}i@{operator""""\discretionary {-}{}{}\_\discretionary {-}{}{}i}|hyperpage}{15}
+\indexentry{operator\char `\"{}\char `\"{}\discretionary {-}{}{}\_\discretionary {-}{}{}i@{operator""""\discretionary {-}{}{}\_\discretionary {-}{}{}i}!complex.h@{complex.\discretionary {-}{}{}h}|hyperpage}{15}
+\indexentry{complex.\discretionary {-}{}{}h@{complex.\discretionary {-}{}{}h}!operator\char `\"{}\char `\"{}\discretionary {-}{}{}\_\discretionary {-}{}{}i@{operator""""\discretionary {-}{}{}\_\discretionary {-}{}{}i}|hyperpage}{15}
+\indexentry{operator\char `\"{}\char `\"{}\discretionary {-}{}{}\_\discretionary {-}{}{}i@{operator""""\discretionary {-}{}{}\_\discretionary {-}{}{}i}!complex.h@{complex.\discretionary {-}{}{}h}|hyperpage}{15}
+\indexentry{complex.\discretionary {-}{}{}h@{complex.\discretionary {-}{}{}h}!operator$\ast $@{operator$\ast $}|hyperpage}{15}
+\indexentry{operator$\ast $@{operator$\ast $}!complex.h@{complex.\discretionary {-}{}{}h}|hyperpage}{15}
+\indexentry{complex.\discretionary {-}{}{}h@{complex.\discretionary {-}{}{}h}!operator+@{operator+}|hyperpage}{15}
+\indexentry{operator+@{operator+}!complex.h@{complex.\discretionary {-}{}{}h}|hyperpage}{15}
+\indexentry{complex.\discretionary {-}{}{}h@{complex.\discretionary {-}{}{}h}!operator-\/@{operator-\/}|hyperpage}{15}
+\indexentry{operator-\/@{operator-\/}!complex.h@{complex.\discretionary {-}{}{}h}|hyperpage}{15}
+\indexentry{complex.\discretionary {-}{}{}h@{complex.\discretionary {-}{}{}h}!operator-\/@{operator-\/}|hyperpage}{15}
+\indexentry{operator-\/@{operator-\/}!complex.h@{complex.\discretionary {-}{}{}h}|hyperpage}{15}
+\indexentry{complex.\discretionary {-}{}{}h@{complex.\discretionary {-}{}{}h}!operator/@{operator/}|hyperpage}{15}
+\indexentry{operator/@{operator/}!complex.h@{complex.\discretionary {-}{}{}h}|hyperpage}{15}
+\indexentry{complex.\discretionary {-}{}{}h@{complex.\discretionary {-}{}{}h}!operator/@{operator/}|hyperpage}{15}
+\indexentry{operator/@{operator/}!complex.h@{complex.\discretionary {-}{}{}h}|hyperpage}{15}
+\indexentry{complex.\discretionary {-}{}{}h@{complex.\discretionary {-}{}{}h}!operator$<$$<$@{operator$<$$<$}|hyperpage}{16}
+\indexentry{operator$<$$<$@{operator$<$$<$}!complex.h@{complex.\discretionary {-}{}{}h}|hyperpage}{16}
+\indexentry{complex.\discretionary {-}{}{}h@{complex.\discretionary {-}{}{}h}!operator==@{operator==}|hyperpage}{16}
+\indexentry{operator==@{operator==}!complex.h@{complex.\discretionary {-}{}{}h}|hyperpage}{16}
+\indexentry{complex.\discretionary {-}{}{}h@{complex.\discretionary {-}{}{}h}!operator$>$$>$@{operator$>$$>$}|hyperpage}{16}
+\indexentry{operator$>$$>$@{operator$>$$>$}!complex.h@{complex.\discretionary {-}{}{}h}|hyperpage}{16}
+\indexentry{complex.\discretionary {-}{}{}h@{complex.\discretionary {-}{}{}h}!polar@{polar}|hyperpage}{16}
+\indexentry{polar@{polar}!complex.h@{complex.\discretionary {-}{}{}h}|hyperpage}{16}
+\indexentry{complex.\discretionary {-}{}{}h@{complex.\discretionary {-}{}{}h}!pow@{pow}|hyperpage}{16}
+\indexentry{pow@{pow}!complex.h@{complex.\discretionary {-}{}{}h}|hyperpage}{16}
+\indexentry{complex.\discretionary {-}{}{}h@{complex.\discretionary {-}{}{}h}!pow@{pow}|hyperpage}{16}
+\indexentry{pow@{pow}!complex.h@{complex.\discretionary {-}{}{}h}|hyperpage}{16}
+\indexentry{complex.\discretionary {-}{}{}h@{complex.\discretionary {-}{}{}h}!pow@{pow}|hyperpage}{16}
+\indexentry{pow@{pow}!complex.h@{complex.\discretionary {-}{}{}h}|hyperpage}{16}
+\indexentry{complex.\discretionary {-}{}{}h@{complex.\discretionary {-}{}{}h}!real@{real}|hyperpage}{16}
+\indexentry{real@{real}!complex.h@{complex.\discretionary {-}{}{}h}|hyperpage}{16}
+\indexentry{complex.\discretionary {-}{}{}h@{complex.\discretionary {-}{}{}h}!root@{root}|hyperpage}{16}
+\indexentry{root@{root}!complex.h@{complex.\discretionary {-}{}{}h}|hyperpage}{16}
+\indexentry{complex.\discretionary {-}{}{}h@{complex.\discretionary {-}{}{}h}!sin@{sin}|hyperpage}{17}
+\indexentry{sin@{sin}!complex.h@{complex.\discretionary {-}{}{}h}|hyperpage}{17}
+\indexentry{complex.\discretionary {-}{}{}h@{complex.\discretionary {-}{}{}h}!sinh@{sinh}|hyperpage}{17}
+\indexentry{sinh@{sinh}!complex.h@{complex.\discretionary {-}{}{}h}|hyperpage}{17}
+\indexentry{complex.\discretionary {-}{}{}h@{complex.\discretionary {-}{}{}h}!sqrt@{sqrt}|hyperpage}{17}
+\indexentry{sqrt@{sqrt}!complex.h@{complex.\discretionary {-}{}{}h}|hyperpage}{17}
+\indexentry{plot/\discretionary {-}{}{}Plot.\discretionary {-}{}{}m@{plot/\discretionary {-}{}{}Plot.\discretionary {-}{}{}m}|hyperpage}{17}
+\indexentry{Plot.\discretionary {-}{}{}m@{Plot.\discretionary {-}{}{}m}!F@{F}|hyperpage}{18}
+\indexentry{F@{F}!Plot.m@{Plot.\discretionary {-}{}{}m}|hyperpage}{18}
+\indexentry{Plot.\discretionary {-}{}{}m@{Plot.\discretionary {-}{}{}m}!figure@{figure}|hyperpage}{18}
+\indexentry{figure@{figure}!Plot.m@{Plot.\discretionary {-}{}{}m}|hyperpage}{18}
+\indexentry{Plot.\discretionary {-}{}{}m@{Plot.\discretionary {-}{}{}m}!figure@{figure}|hyperpage}{18}
+\indexentry{figure@{figure}!Plot.m@{Plot.\discretionary {-}{}{}m}|hyperpage}{18}
+\indexentry{Plot.\discretionary {-}{}{}m@{Plot.\discretionary {-}{}{}m}!if@{if}|hyperpage}{18}
+\indexentry{if@{if}!Plot.m@{Plot.\discretionary {-}{}{}m}|hyperpage}{18}
+\indexentry{Plot.\discretionary {-}{}{}m@{Plot.\discretionary {-}{}{}m}!movie2avi@{movie2avi}|hyperpage}{18}
+\indexentry{movie2avi@{movie2avi}!Plot.m@{Plot.\discretionary {-}{}{}m}|hyperpage}{18}
+\indexentry{Plot.\discretionary {-}{}{}m@{Plot.\discretionary {-}{}{}m}!plot@{plot}|hyperpage}{18}
+\indexentry{plot@{plot}!Plot.m@{Plot.\discretionary {-}{}{}m}|hyperpage}{18}
+\indexentry{Plot.\discretionary {-}{}{}m@{Plot.\discretionary {-}{}{}m}!plot@{plot}|hyperpage}{18}
+\indexentry{plot@{plot}!Plot.m@{Plot.\discretionary {-}{}{}m}|hyperpage}{18}
+\indexentry{Plot.\discretionary {-}{}{}m@{Plot.\discretionary {-}{}{}m}!title@{title}|hyperpage}{18}
+\indexentry{title@{title}!Plot.m@{Plot.\discretionary {-}{}{}m}|hyperpage}{18}
+\indexentry{Plot.\discretionary {-}{}{}m@{Plot.\discretionary {-}{}{}m}!title@{title}|hyperpage}{18}
+\indexentry{title@{title}!Plot.m@{Plot.\discretionary {-}{}{}m}|hyperpage}{18}
+\indexentry{Plot.\discretionary {-}{}{}m@{Plot.\discretionary {-}{}{}m}!x@{x}|hyperpage}{18}
+\indexentry{x@{x}!Plot.m@{Plot.\discretionary {-}{}{}m}|hyperpage}{18}
+\indexentry{Plot.\discretionary {-}{}{}m@{Plot.\discretionary {-}{}{}m}!xlabel@{xlabel}|hyperpage}{18}
+\indexentry{xlabel@{xlabel}!Plot.m@{Plot.\discretionary {-}{}{}m}|hyperpage}{18}
+\indexentry{Plot.\discretionary {-}{}{}m@{Plot.\discretionary {-}{}{}m}!all@{all}|hyperpage}{18}
+\indexentry{all@{all}!Plot.m@{Plot.\discretionary {-}{}{}m}|hyperpage}{18}
+\indexentry{Plot.\discretionary {-}{}{}m@{Plot.\discretionary {-}{}{}m}!i@{i}|hyperpage}{18}
+\indexentry{i@{i}!Plot.m@{Plot.\discretionary {-}{}{}m}|hyperpage}{18}
+\indexentry{Plot.\discretionary {-}{}{}m@{Plot.\discretionary {-}{}{}m}!N@{N}|hyperpage}{18}
+\indexentry{N@{N}!Plot.m@{Plot.\discretionary {-}{}{}m}|hyperpage}{18}
+\indexentry{Plot.\discretionary {-}{}{}m@{Plot.\discretionary {-}{}{}m}!r@{r}|hyperpage}{18}
+\indexentry{r@{r}!Plot.m@{Plot.\discretionary {-}{}{}m}|hyperpage}{18}
+\indexentry{Plot.\discretionary {-}{}{}m@{Plot.\discretionary {-}{}{}m}!x@{x}|hyperpage}{18}
+\indexentry{x@{x}!Plot.m@{Plot.\discretionary {-}{}{}m}|hyperpage}{18}
+\indexentry{src/main.\discretionary {-}{}{}cpp@{src/main.\discretionary {-}{}{}cpp}|hyperpage}{19}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!main@{main}|hyperpage}{19}
+\indexentry{main@{main}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{19}

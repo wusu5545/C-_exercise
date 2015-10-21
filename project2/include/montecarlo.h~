@@ -1,0 +1,14 @@
+#ifndef montecarlo_H
+#define montecarlo_H_H
+
+#include "complex.h"
+
+using namespace std;
+
+class MonteCarlo
+{
+  public:
+    
+};
+
+#endif

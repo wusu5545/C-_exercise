@@ -1,0 +1,267 @@
+#include <iostream>
+#include <cmath>
+
+using namespace std;
+
+#include "complex.h"
+
+//Constructor with two arguments
+Complex::Complex(double _r,double _i)
+{
+  r = _r;
+  i = _i;
+}
+
+//Constructor with one arguments
+Complex::Complex(double _r)
+{
+  r = _r;
+  i = 0.0;
+}
+
+//default constructor
+Complex::Complex()
+{
+  r = 0.0;
+  i = 0.0;
+}
+
+/*Operator overloading
+* Normally, we can use operators like +,-,* etc only for primitive
+* data types in C++, like int , char float double etc.
+* However, C++ allows us to extend thes operators to work on our
+* classed by by overloading them. The following function overloads
+* the '+' operator so that we can use a simple command like c = a + b
+* to add two objects of type Complex.
+*/
+Complex Complex::operator+ (Complex &rhs)
+{
+  return Complex(r + rhs.r, i + rhs.i);
+}
+
+//Overloaded '-' operator
+Complex Complex::operator- (Complex &rhs)
+{
+  return Complex(r - rhs.r, i - rhs.i);
+}
+
+//Overloaded '*' operator
+Complex Complex::operator* (Complex rhs)
+{
+  return Complex((r * rhs.r) - (i * rhs.i), (r * rhs.i) + (i * rhs.r));
+}
+
+//To be completed in next class
+Complex Complex::operator/ (Complex &rhs)
+{
+  Complex c = rhs.conj();
+  double n = rhs.norm();
+  return ((*this) * c) / (n * n);
+}
+
+Complex Complex::operator/ (double rhs)
+{
+  return Complex(r/rhs,i/rhs);
+}
+
+//Assigns new values to the contents
+// Complex::operator= (double _r)
+// {
+//   r = _r;
+//   i = 0.0;
+// }
+// 
+// Complex Complex::operator= (Complex &rhs)
+// {
+//   return Complex(rhs.r, rhs.i);
+// }
+
+Complex operator -(Complex &rhs)
+{
+  return Complex(-rhs.r,-rhs.i);
+}
+
+bool operator ==(Complex &a,Complex &b)
+{
+  if ((a.r == b.r)&&(a.i == b.i))
+    return true;
+  else
+    return false;
+}
+
+bool operator !=(Complex &a,Complex &b)
+{
+  if (a == b)
+    return false;
+  else
+    return true;
+}
+
+void Complex::operator+= (Complex &rhs)
+{
+  (*this) = (*this) + rhs;
+}
+
+void Complex::operator-= (Complex &rhs)
+{
+  (*this) = (*this) - rhs;
+}
+
+void Complex::operator*= (Complex &rhs)
+{
+   (*this) = (*this) * rhs;
+}
+
+void Complex::operator/= (Complex &rhs)
+{
+  (*this) = (*this) / rhs;
+}
+
+void Complex::operator/= (double rhs)
+{
+  (*this) = (*this) / rhs;
+}
+
+//returns the conjugate of the complex number for which it is called
+Complex Complex::conj()
+{
+  return Complex(r, -i);
+}
+
+Complex conj(Complex &rhs)
+{
+  return Complex(rhs.r,-rhs.i);
+}
+
+//returns the argle of the complex number in the half-open interval(-pi to pi] for which it is called
+double Complex::arg()
+{
+  return atan2(i,r);
+}
+
+double arg(Complex &rhs)
+{
+  return rhs.arg();
+}
+
+//returns the real part of the complex number for which it is called
+double Complex::real()
+{
+  return (r);
+}
+
+double real(Complex &rhs)
+{
+  return (rhs.r);
+}
+
+//returns the imaginary part of the complex number for which it is called
+double Complex::imag()
+{
+  return (i);
+}
+
+double imag(Complex& rhs)
+{
+  return rhs.i;
+}
+
+//returns the norm of the complex number for which it is called
+double Complex::norm()
+{
+  return r*r + i*i;
+}
+
+double norm(Complex& rhs)
+{
+  return rhs.norm();
+}
+
+//returns the absolute value of the comlex number for which it is called
+double Complex::abs()
+{
+  return sqrt(r*r + i*i );
+}
+double abs(Complex &rhs)
+{
+  return rhs.abs();
+}
+
+//returns a comlex. The arguments represent a pair of polar coordimates where r 
+//is the magnitude and t is the angle(measured in radians)
+Complex polar(double r,double t)
+{
+  return Complex(r*cos(t),r*sin(t));
+}
+
+//Compute base-e exponential of z, that is e (Euler's number, 2.7182818) raised to the z power.
+Complex exp(Complex rhs)
+{
+    return Complex(exp(rhs.r)*cos(rhs.i),exp(rhs.r)*sin(rhs.i));
+}
+
+//Computes complex natural (base e) logarithm of a complex value z with a branch cut along the negative real axis
+Complex log(Complex rhs)
+{
+  return Complex(log(rhs.abs()),rhs.arg());
+}
+
+//Computes complex x raised to a complex power y with a branch cut along the negative real axis for the first argument.
+Complex pow(double a,Complex b)
+{
+  return exp(b * Complex(log(a),0.0));
+}
+
+Complex pow(Complex a,double b)
+{
+  return exp(Complex(b,0) * log(a));
+}
+
+Complex pow(Complex a,Complex b)
+{
+  return exp(b*log(a));
+}
+
+//Computes the square root of the complex number z with a branch cut along the negative real axis.
+Complex sqrt(Complex rhs)
+{
+  return pow(rhs,0.5);
+}
+
+//Trigonometric and Hyperbolic Functions
+Complex sin(Complex &rhs)
+{
+  return rhs;
+}
+
+Complex cos(Complex &rhs)
+{
+  return rhs;
+}
+
+Complex sinh(Complex &rhs)
+{
+  return rhs;
+}
+
+Complex cosh(Complex &rhs)
+{
+  return rhs;
+}
+
+//prints the complex number
+void Complex::print()
+{
+  cout << "(" << r << "," << i << ")";
+}
+
+//The following functions provide insertion and extraction capabilities for complex numbers.
+ostream& operator <<(ostream& os,Complex& c)
+{
+  c.print();
+}
+
+istream& operator >>(istream& is,Complex& c)
+{
+  cout << is << endl;
+}
